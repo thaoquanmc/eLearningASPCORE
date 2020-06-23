@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/quanthao/OneDrive - Đại học FPT- FPT University/CoreTD/eLearning.WebApp/eLearning.WebApp.csproj",
-      "projectName": "eLearning.WebApp",
-      "projectPath": "/Users/quanthao/OneDrive - Đại học FPT- FPT University/CoreTD/eLearning.WebApp/eLearning.WebApp.csproj",
+      "projectUniqueName": "/Users/quanthao/OneDrive - Đại học FPT- FPT University/CoreTD/eLearning.Application/eLearning.Application.csproj",
+      "projectName": "eLearning.Application",
+      "projectPath": "/Users/quanthao/OneDrive - Đại học FPT- FPT University/CoreTD/eLearning.Application/eLearning.Application.csproj",
       "packagesPath": "/Users/quanthao/.nuget/packages/",
-      "outputPath": "/Users/quanthao/OneDrive - Đại học FPT- FPT University/CoreTD/eLearning.WebApp/obj/",
+      "outputPath": "/Users/quanthao/OneDrive - Đại học FPT- FPT University/CoreTD/eLearning.Application/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -56,9 +56,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
