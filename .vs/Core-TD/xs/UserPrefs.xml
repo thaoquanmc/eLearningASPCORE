@@ -1,14 +1,13 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{2812F5CF-0616-4F05-A5E0-2ED4772A60BF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
-    <Files>
-      <File FileName="README.md" Line="3" Column="16" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.eLearning.Data FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Core-TD" expanded="True" selected="True">
             <Node name="Solution Items" expanded="True" />
-            <Node name="eLearning.MyContext" expanded="True" />
+            <Node name="eLearning.Application" expanded="True" />
+            <Node name="eLearning.Data" expanded="True" />
             <Node name="eLearning.WebApp" expanded="True" />
           </Node>
         </State>
@@ -21,5 +20,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.eLearning.Application FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.eLearning.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

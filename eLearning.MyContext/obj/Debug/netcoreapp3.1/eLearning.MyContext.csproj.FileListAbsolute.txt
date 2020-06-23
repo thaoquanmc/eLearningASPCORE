@@ -1,9 +1,0 @@
-/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/bin/Debug/netcoreapp3.1/eLearning.MyContext.deps.json
-/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/bin/Debug/netcoreapp3.1/eLearning.MyContext.dll
-/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/bin/Debug/netcoreapp3.1/eLearning.MyContext.pdb
-/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/obj/Debug/netcoreapp3.1/eLearning.MyContext.csprojAssemblyReference.cache
-/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/obj/Debug/netcoreapp3.1/eLearning.MyContext.AssemblyInfoInputs.cache
-/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/obj/Debug/netcoreapp3.1/eLearning.MyContext.AssemblyInfo.cs
-/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/obj/Debug/netcoreapp3.1/eLearning.MyContext.csproj.CoreCompileInputs.cache
-/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/obj/Debug/netcoreapp3.1/eLearning.MyContext.dll
-/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/obj/Debug/netcoreapp3.1/eLearning.MyContext.pdb

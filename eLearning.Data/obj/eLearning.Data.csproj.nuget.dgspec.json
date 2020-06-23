@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/eLearning.MyContext.csproj": {}
+    "/Users/quanthao/OneDrive - Đại học FPT- FPT University/CoreTD/eLearning.Data/eLearning.Data.csproj": {}
   },
   "projects": {
-    "/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/eLearning.MyContext.csproj": {
+    "/Users/quanthao/OneDrive - Đại học FPT- FPT University/CoreTD/eLearning.Data/eLearning.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/eLearning.MyContext.csproj",
-        "projectName": "eLearning.MyContext",
-        "projectPath": "/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/eLearning.MyContext.csproj",
+        "projectUniqueName": "/Users/quanthao/OneDrive - Đại học FPT- FPT University/CoreTD/eLearning.Data/eLearning.Data.csproj",
+        "projectName": "eLearning.Data",
+        "projectPath": "/Users/quanthao/OneDrive - Đại học FPT- FPT University/CoreTD/eLearning.Data/eLearning.Data.csproj",
         "packagesPath": "/Users/quanthao/.nuget/packages/",
-        "outputPath": "/Users/quanthao/OneDrive - Đại học FPT- FPT University/Core-TD/eLearning.MyContext/obj/",
+        "outputPath": "/Users/quanthao/OneDrive - Đại học FPT- FPT University/CoreTD/eLearning.Data/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
